@@ -6,6 +6,7 @@
     "name": "yangdaqiong",
     "email": "yangdaqiong@126.com"
   },
+  "license": "Apache-2.0",
   "scripts": {
     "dev": "vite",
     "dev:debug": "vite --debug",
